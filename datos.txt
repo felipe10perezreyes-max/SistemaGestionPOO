@@ -1,0 +1,3 @@
+CLIENTE_Juan Perez_12345678_K_Av Pajaritos_1500_Santiago_550
+EMPLEADO_Maria Flores_9876543_2_Calle Prat_45_Valparaiso_Supervisor
+CLIENTE_Carlos Soto_11111111_1_Gran Avenida_3400_San Miguel_120
